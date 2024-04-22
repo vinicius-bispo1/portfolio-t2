@@ -37,6 +37,7 @@ export default function Header() {
         <a href="">         
        <img src={face} alt="" />
         </a>
+        <input type="email" placeholder="@exemplo"/>
       </S.BoxIcon>
     </S.Header>
   );

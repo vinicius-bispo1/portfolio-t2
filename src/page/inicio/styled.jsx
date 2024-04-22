@@ -17,7 +17,7 @@ export const Container = styled.section`
   display: flex;
   justify-content: center;
   align-items: center;
- background-color: #839697;
+ background-color: #15b1ba;
  
 `;
 export const BoxInicio = styled.div`
